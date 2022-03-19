@@ -1,0 +1,95 @@
+
+*{
+  box-sizing:border-box;
+  font-size: 18px;
+}
+body{
+ background-color: darkgrey;
+ background-size:cover;
+
+}
+
+header{
+  background-color:white ;
+font-style: "font-weight-bold";
+text-emphasis-color: black;
+}
+nav a:link{
+   text-decoration:none ;
+   margin-right:25px ;
+}
+nav a:hover{
+  border-bottom:2 px solid ;
+}
+
+.pad0
+{
+ padding:5px;
+}
+.logoyaniyazisi{
+ float:left ! important;
+ font-size: 18px;
+ font-weight: 80;
+ padding-top: 0px;
+ padding-left: 5px;
+ padding-right: 5px;
+ margin-top: 0px;
+ color: cyan;
+ 
+}
+.pad10
+{
+ padding:10px;
+ 
+}
+.btn{
+    margin-left:5px;
+    padding-right: 5px;
+}
+.pad5{
+ padding-right: 5px;
+}
+.slider{
+      margin-top: 100px;
+      height: 500px;
+      width: 500px;
+    }
+.padTop20{
+ padding-top: 50px;
+}
+h3{
+ text-align: center;
+ text-decoration-color: black;
+}
+h4{
+ text-align: center;
+}
+
+.ayrac{
+    border:none;
+    border-top:3px solid #343a40;
+    max-width: 250px;
+    margin: 25px auto;
+    }
+.om{
+      background-color: #F8F9F9;
+
+    }
+img.img-round {
+    border-radius: 50%;
+  
+    object-fit: cover;
+}
+.stadgar{
+  margin-top: 150px;
+   background-color: #F8F9F9;
+}
+.stadgalogo{
+  height: 500px;
+  width: 500px;
+  background-color:#F8F9F9 ;
+  text-align: center;
+  text-decoration: double;
+}
+
+
